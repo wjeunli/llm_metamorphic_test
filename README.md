@@ -12,7 +12,7 @@ A modular framework for testing Large Language Models (LLMs) using metamorphic r
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/llm-metamorphic-testing.git
+git clone https://github.com/wjeunli/llm_metamorphic_test.git
 
 cd llm_metamorphic_test
 # Install dependencies
